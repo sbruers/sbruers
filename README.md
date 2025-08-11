@@ -21,7 +21,7 @@
 
 ## Find Me Online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sbruers--freyssinet-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/s-bruers-freyssinet/)
-![Instagram](https://www.instagram.com/curieuxcerveau/)
+[Instagram](https://www.instagram.com/curieuxcerveau/)
 
 ## Fun Fact
 I love drawing, and often doodle my way through problems
