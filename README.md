@@ -4,7 +4,7 @@
 
 ---
 
-##**R&D Engineer at BrainChip (Toulouse, France) since 2018**
+## **R&D Engineer at BrainChip (Toulouse, France) since 2018**
 - Over 7 years of experience developing custom deep learning models optimized for resource-constrained devices
 - Proven expertise in model optimization (regularization, pruning, quantization) in keras and pytorch
 - Obtained national funding (from ANR) alongside university partners (BrainNet project)
